@@ -1,0 +1,8 @@
+/**
+ * WP SILO settings page stylesheet
+ */
+ 
+.wpsilo-admin table th {
+	width: 50%;
+	font-weight: normal;
+}
